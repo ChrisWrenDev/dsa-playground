@@ -1,6 +1,6 @@
-# Rustorithm
+# DSA Playground
 
-A collection of algorithms in Rust.
+A collection of algorithms in multiple languages.
 
 ## Searching
 - Linear search
@@ -54,7 +54,7 @@ A collection of algorithms in Rust.
 - Prim's algorithm
 - Kruskal's algorithm
 
-## dynamic programming
+## Dynamic Programming
 - longest common subsequence
 - edit distance
 
